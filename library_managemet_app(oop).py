@@ -1,6 +1,6 @@
 
 
-# Create a library class
+# Create a library class for library management app
 # display book
 # lend book - (who owns the book if not present)
 # add book
